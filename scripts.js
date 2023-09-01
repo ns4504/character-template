@@ -17,8 +17,8 @@
 			<a HREF="appearance.html">APPEARANCE</a>
 			<a HREF="personality.html">PERSONALITY</a>
 			<a HREF="background.html">BACKGROUND</a>
-			<a HREF="relatioships">RELATIONSHIPS</a>
-			<a HREF="combat">COMBAT</a>
+			<a HREF="relationships.html">RELATIONSHIPS</a>
+			<a HREF="combat.html">COMBAT</a>
 			</nav>
 		</div>
 	`);
