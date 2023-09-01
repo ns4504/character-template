@@ -13,12 +13,12 @@
 	setNavContent(`
 	<div class="nav">
 			<nav>
-			<a href="#">BASICS</a>
-			<a HREF="#">APPEARANCE</a>
-			<a HREF="#">PERSONALITY</a>
-			<a HREF="#">BACKGROUND</a>
-			<a HREF="#">RELATIONSHIPS</a>
-			<a HREF="#">COMBAT</a>
+			<a href="index.html">BASICS</a>
+			<a HREF="appearance.html">APPEARANCE</a>
+			<a HREF="personality.html">PERSONALITY</a>
+			<a HREF="background.html">BACKGROUND</a>
+			<a HREF="relatioships">RELATIONSHIPS</a>
+			<a HREF="combat">COMBAT</a>
 			</nav>
 		</div>
 	`);
