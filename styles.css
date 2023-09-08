@@ -46,6 +46,11 @@ header div.nav nav a:hover {
 h1, h2, h3, h4, h5, h6 {
 	font-family: Headings;
 }
+
+p {
+	margin-left: 25px;
+	margin-right: 25px;
+}
 /* FOOTER */
 footer {
 	background-color: #777777;
