@@ -58,11 +58,10 @@ footer {
    =========================
 */
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 480px) {
 	body {
 		text-align: center;
 		background-color: #c0c0c0;
-		max-width: 100%;
 		font-size: 20px;
 	}
 		body img#main-image {
@@ -72,15 +71,14 @@ footer {
 }
 
 /* ============================================
-   Tablet and Desktop Styles: 801px and greater 
+   Tablet and Desktop Styles: 481px and greater 
    ============================================
 */
 
-@media only screen and (min-width: 801px) {
+@media only screen and (min-width: 481px) {
 	body {
 	text-align: center;
-	background-color: #c0c0c0;
-	max-width: 75%;
+	background-color: #c0c0c0; 
 	margin: auto;
 	font-size: 20px;
 	}
