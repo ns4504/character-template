@@ -58,7 +58,7 @@ footer {
    =========================
 */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 800px) {
 	body {
 		text-align: center;
 		background-color: #c0c0c0;
@@ -72,11 +72,11 @@ footer {
 }
 
 /* ============================================
-   Tablet and Desktop Styles: 481px and greater 
+   Tablet and Desktop Styles: 801px and greater 
    ============================================
 */
 
-@media only screen and (min-width: 481px) {
+@media only screen and (min-width: 801px) {
 	body {
 	text-align: center;
 	background-color: #c0c0c0;
